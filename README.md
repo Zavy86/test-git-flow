@@ -4,7 +4,9 @@ Initial commit.
 
 Git Flow initialized.
 
-## Feature 1
+## Features
+
+### Feature 1
 
 Developing feature number one.
 
