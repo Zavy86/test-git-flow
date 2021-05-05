@@ -13,3 +13,5 @@ Feature 1 completed.
 ## Feature 2
 
 Developing feature number two.
+
+Feature 2 completed!
